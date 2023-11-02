@@ -5,5 +5,8 @@ public class basicCode {
         System.out.println("Hello Batch 17");
         System.out.println("Hello Batch 17");
         System.out.println("Hello Batch 17");
+        System.out.println("Hello Batch 18");  
+          System.out.println("Hello Batch 18");  
+          System.out.println("Hello Batch 18");  
     }
 }
